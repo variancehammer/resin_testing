@@ -1,0 +1,91 @@
+3D Printing Pro's Chitubox Support Settings
+
+Sources:
+https://www.youtube.com/watch?v=KjF54SFaMAQ
+https://www.youtube.com/watch?v=AIFRpG5V5vQ
+
+Light
+Top
+	Contact Shape: None
+	Contact Diameter: 0.2 (OG: 0.12)
+	Contact Depth: 0.1 (OG: 0.12)
+	Connection Shape: Cone
+	Upper Diameter: 0.2 (0.30)
+	Lower Diameter: 1.0 (0.40)
+	Connection Length: 3.00 (1.5)
+	
+Middle
+	Shape: Cylinder
+	Diameter: 1.20 (OG: 0.80)
+	Angle (deg): 60.00 (70)
+	
+	Small Pillar Shape: Sphere
+	Diameter: 1.2
+	Upper Depth: 0.4
+	Lower Depth: 0.4
+
+Bottom
+	Platform Touch Shape: Skate
+	Touch Diameter: 10
+	Thickness: 0.8
+	Model Contact Shape: None
+	Contact Diameter(mm): 0.4
+	Contact Depth: 0.2  
+	Contact Point: 3
+	
+Medium
+Top
+	Contact Shape: None
+	Contact Diameter: 0.4
+	Contact Depth: 0.15
+	Connection Shape: Cone
+	Upper Diameter: 0.4
+	Lower Diameter: 1.5 (1.2)
+	Connection Length: 4.00 (2.00)
+	
+Middle
+	Shape: Cylinder
+	Diameter: 1.50 (1.20)
+	Angle(deg): 60 (70)
+	Small Pillar Shape: Sphere
+	Diameter: 1.2
+	Upper Depth: 0.4
+	Lower Depth: 0.4
+	
+Bottom:
+	Platform Touch Shape: Skate
+	Touch Diameter(mm): 12.00
+	Thickness: 1.00
+	Model Contact Shape: None
+	Contact Diameter(mm): 0.60
+	Contact Depth(mm): 0.20
+	Contact Point: 3
+
+
+Heavy (Note: Middle and Bottom are never discussed, assuming default)
+Top
+	Contact Shape: None
+	Contact Diameter: 0.8/0.6 (0.30)
+	Contact Depth: 0.4 (0.30)
+	Connection Shape: Cone
+	Upper Diameter: 0.8/0.6 (0.60)
+	Lower Diameter: 1.5
+	Connection Length: 3.50
+	
+Middle:
+	Shape: Cylinder
+	Diameter: 1.50
+	Angle: 70
+	Small Pillar Shape: Cone
+	Diameter: 0.5
+	Upper Depth 0.3
+	Lower Depth: 0.3
+
+Bottom:
+	Platform Touch Shape: Skate
+	Touch Diameter(mm): 12.00
+	Thickness: 1.00
+	Model Contact Shape: None
+	Contact Diameter(mm): 2.0
+	Contact Depth(mm): 0.30
+	Contact Point: 1
